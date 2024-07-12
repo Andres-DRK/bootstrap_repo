@@ -1,0 +1,30 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+.navbar{
+    background-color:#28A745 ;
+    color:#FFFFFF80 ;
+}
+.navbar img{
+    width: 86px;
+}
+form{
+    background-color:#28A745;
+}
+legend{
+    color: white;
+}
+.descuento{
+color: #28A745;
+font-weight: bold;
+}
+.footer img{
+    width: 82px;
+}
+i{
+    font-size: 13px;
+    color: #707070;
+}
+.parrafo{
+    color: #707070;
+}
